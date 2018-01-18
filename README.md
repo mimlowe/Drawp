@@ -1,5 +1,6 @@
 # Drawp
 A physics puzzle game built using [Impact JS](http://impactjs.com/) and [Box2D](http://box2d.org/)
+![alt](http://impactjs.com/templates/impact/impact.png)
 
 ## My Roles
 
