@@ -1,5 +1,5 @@
 # Drawp
-A physics puzzle game built using Impact JS and Box2D
+A physics puzzle game built using [Impact JS]: http://impactjs.com/ and [Box2D]: http://box2d.org/
 
 ## My Roles
 
@@ -15,6 +15,8 @@ A physics puzzle game built using Impact JS and Box2D
 - Designed visual assets using Adobe Photoshop
 
 ![alt](http://michaelmlowe.com/img/drawp_1.png)
+
+![alt](http://michaelmlowe.com/img/drawp_3.png)
 
 [Play Drawp Here](http://michaelmlowe.com/CS20)
 
