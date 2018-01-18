@@ -1,9 +1,6 @@
 # Drawp
 A physics puzzle game built using [Impact JS](http://impactjs.com/) and [Box2D](http://box2d.org/)
 
-![alt](https://ucarecdn.com/fe740147-93a7-44de-9170-beafd86f3e63/)
-![alt](https://enigma-dev.org/docs/wiki/images/a/ab/Box2d.png)
-
 ## My Roles
 
 ### Gameplay Programmer
